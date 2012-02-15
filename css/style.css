@@ -1,0 +1,46 @@
+body {
+    background-color: #E0E0E0;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin-top: 0px;
+}
+
+#main {
+    width: 900px;
+    margin: 0px auto 0px auto;
+}
+
+#header {
+    background-color: #73A1EA;
+    height: 100px;
+}
+
+#content {
+    background-color: white;
+    padding: 20px;
+}
+
+#menu ul {
+    margin: 0px 0px 0px 30px;
+    padding: 0px;
+}
+
+#menu li {
+    list-style: none;
+    float: left;
+    margin: 30px 0px auto 0px;
+}
+
+#menu li a {
+    padding: 10px;
+    margin: 0px;
+    text-decoration: none;
+    background-color: white;
+    color: #447CD4;
+    display: block;
+}
+
+#menu li a:hover {
+    color: #FFBA40;
+}
+
